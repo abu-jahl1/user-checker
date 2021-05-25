@@ -10,5 +10,7 @@
 # Run
 
 [-] cd checker 
+
 [-] chmod +x checker.py
+
 [-] python checker.py
