@@ -9,8 +9,8 @@
 
 # Run
 
-[-] cd checker 
+[-] cd user-checker 
 
-[-] chmod +x checker.py
+[-] chmod +x abujahl.py
 
-[-] python checker.py
+[-] python abujahl.py
